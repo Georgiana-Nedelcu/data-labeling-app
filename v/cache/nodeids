@@ -1,0 +1,6 @@
+[
+  "tests/test_main.py::test_create_project",
+  "tests/test_main.py::test_example",
+  "tests/test_main.py::test_read_projects",
+  "tests/test_main.py::test_read_root"
+]
